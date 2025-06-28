@@ -5,7 +5,7 @@ This Bash script monitors a specified folder (and its subfolders) for real-time 
 - File creation 🟢
 - File modification 🟡
 - File deletion 🔴
-i
+
 All events are logged with timestamps and displayed in color-coded output in the terminal.
 
 ---
